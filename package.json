@@ -1,7 +1,7 @@
 {
   "name": "@jolharg/website-theme",
   "version": "0.0.5",
-  "description": "Theme files for JolHarg and dandart.co.uk sites",
+  "description": "Theme files for JolHarg and emberdart.co.uk sites",
   "main": "index.js",
   "scripts": {},
   "repository": {
@@ -16,7 +16,7 @@
     "css",
     "pug"
   ],
-  "author": "Dan Dart <git@dandart.co.uk>",
+  "author": "Ember Dart <git@emberdart.co.uk>",
   "license": "AGPL-3.0",
   "bugs": {
     "url": "https://github.com/jolharg/website-theme/issues"
